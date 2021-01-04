@@ -1,0 +1,17 @@
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\HellcaseDailyBot.exe
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\obj\Debug\netcoreapp3.1\HellcaseDailyBot.csprojAssemblyReference.cache
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\obj\Debug\netcoreapp3.1\HellcaseDailyBot.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\obj\Debug\netcoreapp3.1\HellcaseDailyBot.AssemblyInfo.cs
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\obj\Debug\netcoreapp3.1\HellcaseDailyBot.csproj.CopyComplete
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\HellcaseDailyBot.deps.json
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\HellcaseDailyBot.runtimeconfig.json
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\HellcaseDailyBot.runtimeconfig.dev.json
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\HellcaseDailyBot.dll
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\HellcaseDailyBot.pdb
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\obj\Debug\netcoreapp3.1\HellcaseDailyBot.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\obj\Debug\netcoreapp3.1\HellcaseDailyBot.dll
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\obj\Debug\netcoreapp3.1\HellcaseDailyBot.pdb
+C:\Users\home\source\repos\HellcaseDailyBot\HellcaseDailyBot\obj\Debug\netcoreapp3.1\HellcaseDailyBot.genruntimeconfig.cache
