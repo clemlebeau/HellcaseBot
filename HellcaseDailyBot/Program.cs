@@ -40,8 +40,8 @@ namespace HellcaseDailyBot
                 driver.FindElement(By.Id(dailyFreeButtonId)).Click();
                 Console.WriteLine($"Clicked daily free button at {DateTime.Now.ToString("HH:mm:ss")}");
 
-                wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("hell-winner-left")));
-                Console.WriteLine($"Daily reward claimed at {DateTime.Now.ToString("HH:mm:ss")}");
+                //wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("hell-winner-left")));
+                //Console.WriteLine($"Daily reward claimed at {DateTime.Now.ToString("HH:mm:ss")}");
                 Console.WriteLine("Starting 24h+1m wait");
                 Thread.Sleep(TimeSpan.FromMinutes(60 * 24 + 1));
             }
